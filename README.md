@@ -124,4 +124,4 @@ Si deseas contribuir al desarrollo de este proyecto, por favor sigue los siguien
 
 
 ### Créditos y Agradecimientos
-- Desarrollado por [Melendo](https://github.com/Melendo), [AlvaroDelCampoUCM](https://github.com/AlvaroDelCampoUCM), [Valeria Corina](https://github.com/valeriacorinapl), [Pedro Cuadra](https://github.com/pedrocuadracarri), [Pablo Zapico](https://github.com/pzapico23).
+- Desarrollado por [Melendo](https://github.com/Melendo), [AlvaroDelCampoUCM](https://github.com/AlvaroDelCampoUCM), [Valeria Corina](https://github.com/valeriacorinapl), [Pedro Cuadra](https://github.com/pedrocuadracarri), [Pablo Zapico](https://github.com/pzapico23), [Iván Alcalde](https://github.com/IAlcCamDev).
